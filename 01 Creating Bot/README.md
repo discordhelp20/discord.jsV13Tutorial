@@ -9,7 +9,7 @@
 
 ## VIDEO
 
-If you need video tutorial then this is the link to the video!
+If you need [video tutorial](https://youtu.be/hN0ZIIIvyGI) then this is the link to the [video](https://youtu.be/hN0ZIIIvyGI)!
 <div align="center">
   <p>
     <a href="https://youtu.be/hN0ZIIIvyGI"><img src="https://media.discordapp.net/attachments/926023641236377621/926050319421558814/IMG_20211230_152313.jpg" alt="discord.js V13 Playlist" /></a>
