@@ -1,6 +1,7 @@
 <div align="center">
   <p>
     <a href="https://youtube.com/channel/UCKW0IAEQBhyFQHixopT2teQ"><img src="https://media.discordapp.net/attachments/926023641236377621/926023683120726016/20211230_133627.png" width="546" alt="Discord Help" /></a>
+    <a href=""><img src="https://img.shields.io/github/stars/discordhelp20/discord.jsV13Tutorial?style=social" alt="star me"></a>
   </p>
   <p>
     <a href="https://discord.gg/H956rhJEm8"><img src="https://img.shields.io/discord/925633293754449921?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
