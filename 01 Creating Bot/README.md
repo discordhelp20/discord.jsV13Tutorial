@@ -9,7 +9,7 @@
 
 ## INSTALLATION
 
-Create you account on [Replit](https://replit.com/~) and create node.js project.<br />
+Create you account on [Replit](https://replit.com/~) and create node.js project.([click me to create project](https://replit.com/new/nodejs))<br />
 Node.js 16.6.0 or newer is required for using discord.js v13 so we will upgrade our node version to 16.6.0 or above.
 
 **STEP : 1**<br />
