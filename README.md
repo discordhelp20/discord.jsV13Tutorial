@@ -4,6 +4,7 @@
   </p>
   <p>
     <a href="https://discord.gg/H956rhJEm8"><img src="https://img.shields.io/discord/925633293754449921?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
+    <a href="https://github.com/discordhelp20/discord.jsV13Tutorial"><img src="https://img.shields.io/github/stars/discordhelp20/discord.jsV13Tutorial?style=social" alt="star me"></a>
   </p>
 </div>
 
