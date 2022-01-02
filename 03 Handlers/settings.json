@@ -1,0 +1,10 @@
+{
+    "prefix": "?",
+    "color": {
+        "positive": "GREEN",
+        "negative": "RED",
+        "neutral": "BLUE",
+        "warn": "YELLOW"
+    },
+    "ownerId": "OWNER ID"
+}
