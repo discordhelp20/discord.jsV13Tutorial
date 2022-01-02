@@ -13,7 +13,7 @@
 If you need [video tutorial](#) then this is the link to the [video](#)!
 <div align="center">
   <p>
-    <a href="#"><img src="#" alt="discord.js V13 Playlist" /></a>
+    <a href="#"><img src="https://media.discordapp.net/attachments/926023641236377621/927038206719963146/20220102_083921.jpg" alt="Episode 3" /></a>
   </p>
 </div>
 
