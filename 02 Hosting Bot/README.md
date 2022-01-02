@@ -8,6 +8,15 @@
   </p>
 </div>
 
+## VIDEO
+
+If you need [video tutorial](https://youtu.be/E-SGVyNp4JI) then this is the link to the [video](https://youtu.be/E-SGVyNp4JI)!
+<div align="center">
+  <p>
+    <a href="https://youtu.be/E-SGVyNp4JI"><img src="https://media.discordapp.net/attachments/926023641236377621/927038183101829140/IMG_20220102_084833.jpg" alt="Episode 2" /></a>
+  </p>
+</div>
+
 ## SUPPORT
 
 If you don't understand something from my tutorial, you are getting errors, or you need help related to tutorial, please don't hesitate to join our official [support server](https://discord.gg/H956rhJEm8).
