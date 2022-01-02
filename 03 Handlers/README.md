@@ -16,10 +16,10 @@ To enable it login to [Discord Devloper Portal](https://discord.com/developers/a
 
 ## VIDEO
 
-If you need [video tutorial](#) then this is the link to the [video](#)!
+If you need [video tutorial](https://youtu.be/Htnf1jC0-tY) then this is the link to the [video](https://youtu.be/Htnf1jC0-tY)!
 <div align="center">
   <p>
-    <a href="#"><img src="https://media.discordapp.net/attachments/926023641236377621/927038206719963146/20220102_083921.jpg" alt="Episode 3" /></a>
+    <a href="https://youtu.be/Htnf1jC0-tY"><img src="https://media.discordapp.net/attachments/926023641236377621/927038206719963146/20220102_083921.jpg" alt="Episode 3" /></a>
   </p>
 </div>
 
