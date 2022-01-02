@@ -8,6 +8,15 @@
   </p>
 </div>
 
+## VIDEO
+
+If you need [video tutorial](#) then this is the link to the [video](#)!
+<div align="center">
+  <p>
+    <a href="#"><img src="#" alt="discord.js V13 Playlist" /></a>
+  </p>
+</div>
+
 ## SUPPORT
 
 If you don't understand something from my tutorial, you are getting errors, or you need help related to tutorial, please don't hesitate to join our official [support server](https://discord.gg/H956rhJEm8).
