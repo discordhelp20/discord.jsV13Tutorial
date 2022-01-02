@@ -12,7 +12,7 @@
 
 To run this code you have to enable [PRESENCE INTENT](https://discord.com/developers/docs/topics/gateway#presence-update) & [SERVER MEMBERS INTENT](https://discord.com/developers/docs/topics/gateway#list-of-intents).<br />
 
-To enable it login to [Discord Devloper Portal](https://discord.com/developers/applications) and open your application bot tab there is option of [PRESENCE INTENT](https://discord.com/developers/docs/topics/gateway#presence-update) & [GUILD MEMBERS INTENT](https://discord.com/developers/docs/topics/gateway#list-of-intents) enable both of them.
+To enable it login to [Discord Devloper Portal](https://discord.com/developers/applications) and open your application bot tab. There is option of [PRESENCE INTENT](https://discord.com/developers/docs/topics/gateway#presence-update) & [GUILD MEMBERS INTENT](https://discord.com/developers/docs/topics/gateway#list-of-intents) enable both of them.
 
 ## VIDEO
 
